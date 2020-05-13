@@ -1,0 +1,169 @@
+html{
+    font-family:Microsoft JhengHei;
+}
+.main{
+    width: 712px;
+    display: block;
+    margin: 0 auto;
+}
+img{
+    display: block;
+}
+.myimg{
+    height: 193px;
+}
+.imgdiv{
+    margin-bottom: 34px;
+}
+header{
+    display: block;
+    margin: 50px 15px;
+}
+.content{
+    margin:0px 0px 46px 0px;
+}
+header div h1{
+    font-size: 38px;
+}
+ul h2{
+    line-height: 21px;
+    margin: 0px 0px 12px 0px;
+}
+ul h2 span{
+    color:rgb(184, 26, 26);
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+ul hr{
+    margin: 0px 0px 14px 0px;
+}
+
+.lili{
+    line-height: 20px;
+    font-size: 14px;
+}
+.whitebgcolor{
+    background-color: #FAFAFA;
+}
+.graybgcolor{
+    background-color: #404d6b;
+}
+.width100{
+    width: 100%; 
+}
+.insideup{
+    width: 710px;
+    height: 53px;
+    margin: 0 auto;
+    padding:0 74px;
+    color: #FAFAFA;
+    width: 710px;
+}
+.skills{
+    color: #FAFAFA;
+    width: 710px;
+    padding: 28px 74px 39px 74px ;
+}
+.skillsbottom{
+    height: 215px;
+    background-color: rgb(119, 144, 190);
+}
+.down{
+    height: 48px;
+}
+.outsideskills{
+    margin: 53px 0px 48px 0px;
+    display: flex;
+    flex-direction: column;   
+}
+.skillstitle{
+    line-height: 50px;
+    font-size: 27px;
+    margin: 28px 0 7px 0;
+    border-bottom: 1px solid #fff;
+    font-weight: bold;
+}
+.skillstitleEng{
+    font-size: 19px;
+}
+.lineunderskills{
+    margin: 0px 0px 27px 0px;
+}
+.df{
+    display: flex;
+    justify-content: center;
+}
+.tools{
+    line-height: 35px;
+    font-size: 17px;
+}
+.insidetools{
+    width: 146px;
+    padding-left: 17px;
+    border-left: 1px solid #FAFAFA;
+
+}
+.workexperence{
+    height: 385px;
+    width: 372px;
+    margin-bottom: 44px;
+}
+.title{
+    line-height: 14px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.sideborder{
+    border-left: 1px solid #000;
+    padding-left: 15px;
+}
+.heximg{
+    height: 40px;
+}
+.workexperencecontent{
+    font-size: 12px;
+    line-height: 17px;
+    margin-bottom: 30px;
+}
+.bottomspace{
+    margin-bottom: 28px;
+}
+.smbottomspace{
+    margin-bottom: 9px;
+}
+.smcontent{
+    font-size: 12px;
+}
+
+.footer{
+    height: 236px;
+    color: #FAFAFA;
+}
+.contactoutside{
+    padding: 19px 0 25px 0;
+}
+.ta{
+    text-align: center;
+}
+.contacttop{
+    border-bottom: 1px solid #FAFAFA;
+}
+.conch{
+    font-size: 20px;
+}
+.coneg{
+    font-size: 15px;
+}
+.contactlist{
+    list-style: none;
+}
+.conimg{
+    width: 32px;
+}
+.contactlist li{
+    line-height: 27.5px;
+    font-size: 16px;
+}
+.conimgdiv{
+    margin: 0 7px;
+}
